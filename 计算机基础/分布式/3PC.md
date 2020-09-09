@@ -41,4 +41,4 @@
 ## 参考资料
 
 1. [Three Phase Commit Protocol](https://www.geeksforgeeks.org/three-phase-commit-protocol/#:~:text=Three-Phase%20Commit%20%283PC%29%20Protocol%20is%20an%20extension%20of,fail%2C%20where%20we%20assume%20%E2%80%98k%E2%80%99%20is%20predetermined%20number.)
-2. 2. [关于分布式事务、两阶段提交协议、三阶提交协议](http://www.hollischuang.com/archives/681)
+2. [关于分布式事务、两阶段提交协议、三阶提交协议](http://www.hollischuang.com/archives/681)
