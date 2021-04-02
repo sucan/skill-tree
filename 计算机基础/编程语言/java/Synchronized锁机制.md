@@ -180,6 +180,3 @@ synchronized的锁机制原理简单描述如下：
 3. 执行monitorexit时则将对应的计数器减一
 
 
-Synchronized优化
-
-1. 当被锁住的对象第一次被线程
