@@ -9,6 +9,10 @@
 
 ### 实现
 
+1. 遍历需要监听的socket文件描述符
+2. 将当前进程加入socket的等待队列中
+3. 
+
 内核入口：
    
     SYSCALL_DEFINE5(select, int, n, fd_set __user *, inp, fd_set __user *, outp,
